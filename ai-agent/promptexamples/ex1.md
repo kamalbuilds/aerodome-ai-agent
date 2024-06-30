@@ -1,0 +1,1 @@
+Show me the latest trend on ETH on base , which memecoins are the most trading right now ?

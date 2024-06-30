@@ -1,6 +1,8 @@
 # This project is for creating AI agent for Aerodome Protocol to make the users Life easier
 They can trade using AI agents
 
+![image](https://github.com/kamalbuilds/aerodome-ai-agent/assets/95926324/7a4c8bd2-b3a6-487a-b0ba-9374fa7772e2)
+
 All contracts for the Protocol, an AMM on EVMs inspired by Solidly.
 
 See `SPECIFICATION.md` for more detail.

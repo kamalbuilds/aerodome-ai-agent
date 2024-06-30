@@ -1,0 +1,1 @@
+Hey there, I am TradingonAerodome agent , I am here to help you with trading on aerodome, ask me anything related to the transactions on aerodome or give me instructions to go ahead and do the onchain transactions for you like swapping or adding liquidity to a pool. I can also check for conditional based execution of the transactions.
